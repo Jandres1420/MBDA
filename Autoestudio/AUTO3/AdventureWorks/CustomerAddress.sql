@@ -1,0 +1,5 @@
+insert into CustomerAddress (CustomerID,CustomerAddressID,AddresType) values (1,832,"Main Office")
+insert into CustomerAddress (CustomerID,CustomerAddressID,AddresType) values (2,833,"Main Office")
+insert into CustomerAddress (CustomerID,CustomerAddressID,AddresType) values (3,297,"Shopping")
+insert into CustomerAddress (CustomerID,CustomerAddressID,AddresType) values (4,559,"Main Office")
+insert into CustomerAddress (CustomerID,CustomerAddressID,AddresType) values (5,560,"Main Office")

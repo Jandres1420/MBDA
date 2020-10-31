@@ -1,0 +1,9 @@
+/*Dar permisos al cliente*/
+
+CREATE ROLE USUARIO;
+GRANT EXECUTE ON PC_Usuario TO USUARIO;
+
+/*Dar permisos al administrador*/
+
+CREATE ROLE TESORERO;
+GRANT EXECUTE ON PC_TESORERO TO TESORERO;

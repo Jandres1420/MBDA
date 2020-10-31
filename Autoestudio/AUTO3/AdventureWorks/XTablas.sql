@@ -1,0 +1,10 @@
+DROP TABLE ProductDescription;
+DROP TABLE ProductModelProductDescription;
+DROP TABLE ProductModel;
+DROP TABLE Product;
+DROP TABLE ProductCategory;
+DROP TABLE SalesOrderDetail;
+DROP TABLE SalesOrderHeader;
+DROP TABLE Customer;
+DROP TABLE CustomerAddress;
+DROP TABLE Address,

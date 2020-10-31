@@ -1,0 +1,14 @@
+drop trigger T1_ZCOMUN;
+drop trigger T2_ZCOMUN;
+drop trigger T3_ZCOMUN;
+drop trigger T1_MEMBRESIA;
+drop trigger T1_USUARIOS;
+drop trigger T2_REGISTROS;
+drop trigger T1_PAGOS;
+drop trigger T2_Membresias;
+drop trigger T1_REGISTROS;
+drop trigger T1_EMAIL;
+drop trigger T1_TELEFONOS;
+drop trigger T1_MELITE;
+drop trigger T1_MPremium;
+drop trigger T1_MPrestige;

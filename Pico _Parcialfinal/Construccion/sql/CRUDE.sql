@@ -1,0 +1,9 @@
+---CRUDE 
+
+-----CRUDI OPINIONES-----
+
+CREATE OR REPLACE PACKAGE PC_OPINION IS
+    PROCEDURE Ad_Opinion(xopinion IN VARCHAR, xjustificacion IN VARCHAR);
+    FUNCTION  Co_Opinion(xfecha IN DATE , xopinion IN VARCHAR , xjustificacion IN VARCHAR) RETURN SYS_REFCURSOR;
+END PC_OPINION;
+

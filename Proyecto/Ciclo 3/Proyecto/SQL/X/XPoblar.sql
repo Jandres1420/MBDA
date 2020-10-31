@@ -1,0 +1,8 @@
+DELETE FROM ZonasComunes;
+DELETE FROM Usuario;
+DELETE FROM Registro;
+DELETE FROM Elite;
+DELETE FROM Prestige;
+DELETE FROM Membresia;
+DELETE FROM Premium;
+DELETE FROM Pagos;

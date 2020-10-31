@@ -1,0 +1,3 @@
+insert into ASIGNACIONES VALUES('2','51152');
+insert into ASIGNACIONES VALUES('4','51152');
+insert into ASIGNACIONES VALUES('1','51152');

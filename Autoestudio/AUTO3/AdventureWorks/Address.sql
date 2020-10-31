@@ -1,0 +1,5 @@
+insert into Addres(AddressID, AddressLine1,AddressLine2,City,StateProvince,CountryRegion,PostalCode) values (9,"8713 Yosemite Ct.",null,"Bothell","	Washington","United States","98011")
+insert into Addres(AddressID, AddressLine1,AddressLine2,City,StateProvince,CountryRegion,PostalCode) values (11,"1318 Lasalle Street",null,"Bothell","	Washington","United States","98011")
+insert into Addres(AddressID, AddressLine1,AddressLine2,City,StateProvince,CountryRegion,PostalCode) values (25,"9178 Jumping St.",null, "Dallas","Texas","United States", "75201")
+insert into Addres(AddressID, AddressLine1,AddressLine2,City,StateProvince,CountryRegion,PostalCode) values (28,"9228 Via Del Sol",null,"Phoenix", "Arizona","United States","85004")
+insert into Addres(AddressID, AddressLine1,AddressLine2,City,StateProvince,CountryRegion,PostalCode) values (32,"26910 Indela Road",null,"Montreal","Quebec","Canada","H1Y 2H5")

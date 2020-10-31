@@ -1,0 +1,9 @@
+<!DOCTYPE Countries
+[
+	<!ELEMENT Country (name,population,area,language)>
+	<!ELEMENT City(name,population)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT population (#PCDATA)>
+	<!ELEMENT area (#PCDATA)>
+	<!ELEMENT language (#PCDATA)>
+]>

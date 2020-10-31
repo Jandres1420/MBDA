@@ -1,0 +1,5 @@
+insert into ProductModelProductDescription (ProductModelID, ProductDescriptionID,Culture) values (1,1199,'en')
+insert into ProductModelProductDescription (ProductModelID, ProductDescriptionID,Culture) values (1,1467,'ar')
+insert into ProductModelProductDescription (ProductModelID, ProductDescriptionID,Culture) values (1,1589,'fr')
+insert into ProductModelProductDescription (ProductModelID, ProductDescriptionID,Culture) values (1,1712,'th')
+insert into ProductModelProductDescription (ProductModelID, ProductDescriptionID,Culture) values (1,1838,'he')

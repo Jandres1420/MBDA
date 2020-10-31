@@ -1,0 +1,3 @@
+insert into product (ProductID,Name,ProductNumber,Color,StandardCost,ListPrice,Sze,Weight,ProductCategoryID,ProductModelID,SellStartDate,SellEndDate,DiscontinuedDate,ThumbnailPhotoFileName) values ("8", "HL Road Frame-Black, 58", 8,1059.31,1431.5,"58",1016.04,18,6,"Mon,01 Jun 1998",null,null,null)
+
+insert into product (ProductID,Name,ProductNumber,Color,StandardCost,ListPrice,Sze,Weight,ProductCategoryID,ProductModelID,SellStartDate,SellEndDate,DiscontinuedDate,ThumbnailPhotoFileName) values (6.0, "HL Road Frame-Black, 58", 'Black',1059.31,1431.5,"58",1016.04,18,6,"Mon,01 Jun 1998",null,null,null)

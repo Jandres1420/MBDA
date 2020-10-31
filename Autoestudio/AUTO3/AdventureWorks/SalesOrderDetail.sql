@@ -1,0 +1,5 @@
+insert into SalesOrderDetail(SalesOrderID,SalesOrderDetailID,OrderQty,ProductID,UnitPrice,UnitPriceDiscount) values (71774,110562,1,836,356.9,0)
+insert into SalesOrderDetail(SalesOrderID,SalesOrderDetailID,OrderQty,ProductID,UnitPrice,UnitPriceDiscount) values (71774,110563,1,822,356.9,0)
+insert into SalesOrderDetail(SalesOrderID,SalesOrderDetailID,OrderQty,ProductID,UnitPrice,UnitPriceDiscount) values (71776,110567,1,907,63.9,0)
+insert into SalesOrderDetail(SalesOrderID,SalesOrderDetailID,OrderQty,ProductID,UnitPrice,UnitPriceDiscount) values (71780,110616,4,905,218.45,0)
+insert into SalesOrderDetail(SalesOrderID,SalesOrderDetailID,OrderQty,ProductID,UnitPrice,UnitPriceDiscount) values (71780,110617,2,983,461.69,0)

@@ -1,0 +1,5 @@
+insert into ProductModel(ProductModelID, Name, CatalogDescription) values (1,'Classec Vest', null)
+insert into ProductModel(ProductModelID, Name, CatalogDescription) values (2, 'Cycling Cao',null)
+insert into ProductModel(ProductModelID, Name, CatalogDescription) values (3, 'Full-Finger Gloves',null)
+insert into ProductModel(ProductModelID, Name, CatalogDescription) values (4,'Half-Finger Gloves',null)
+insert into ProductModel(ProductModelID, Name, CatalogDescription) values (5,'HL Mountain Frame',null)

@@ -1,0 +1,3 @@
+/*Eliminar roles*/
+DROP ROLE USUARIO;
+DROP ROLE TESORERO;

@@ -1,0 +1,45 @@
+
+<!-Elementos nuevos->
+<countries>
+<country name="Kiribati" population="110136" area="811000">
+<language percentage="100">English</language>
+<language percentage="80">Gilbertese</language>
+<city>
+<name>	Tarawa</name>
+<population>40,311</population>
+</city>
+<city>
+<name>Betio Village</name>
+<population>12,509 </population>
+</city>
+</country>
+<country name="Kazajiztán" population="17987736" area="2724900">
+<language percentage="62">Kazajo </language>
+<language percentage="100">Russian </language>
+<city>
+<name> Almatý </name>
+<population>1806833</population>
+</city>
+<city>
+<name> Astaná </name>
+<population>1078362</population>
+</city>
+</country>
+<country name="Burkina Faso" population="17 589 198" area="274200">
+<language percentage="100">French</language>
+<language percentage="100">	Mossi</language>
+<language percentage="57">diula </language>
+<language percentage="30"> peul</language>
+<city>
+<name>Uagadugú</name>
+<population>1626950 </population>
+</city>
+<city>
+<name>Bobo-Dioulasso</name>
+<population>435000</population>
+</city>
+</country>
+</countries>
+
+
+

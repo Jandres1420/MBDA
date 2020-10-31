@@ -1,0 +1,5 @@
+insert into ProductCategory (ProductCategoryID,ParentProductCategoryID,Name) values (1,null,'Bike')
+insert into ProductCategory (ProductCategoryID,ParentProductCategoryID,Name) values (2,null,'Components')
+insert into ProductCategory (ProductCategoryID,ParentProductCategoryID,Name) values (3,null,'Clothing')
+insert into ProductCategory (ProductCategoryID,ParentProductCategoryID,Name) values (4,null,'Accesories')
+insert into ProductCategory (ProductCategoryID,ParentProductCategoryID,Name) values (5,1,'MountainBikes')

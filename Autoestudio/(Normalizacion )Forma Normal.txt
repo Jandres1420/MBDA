@@ -1,0 +1,4 @@
+1 FN Normal todos los atributos son atomicos
+2 FN todos los atributos tienen que depender de una sola parte de la llava primaria
+3 FN no pueden haber formas transitivas 
+Voice/Code Depende de una parte de la llave primaria y depende de un atributo que no es llave primaria 

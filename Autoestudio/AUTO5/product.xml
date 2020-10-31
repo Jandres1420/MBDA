@@ -1,0 +1,58 @@
+CREATE TABLE ProductModel(
+    ProductModelID int NOT NULL,
+    name varchar(50) NOT NULL,
+    detalle XMLTYPE NOT NULL
+);
+
+INSERT INTO ProductModel VALUES(115,'Classic Vest','<?xml version='1.0'?>
+<detalle>
+    <tipo_de_tela
+        tela = 'cotton'>
+    </tipo_de_tela>
+    <colores_disponibles
+        color = 'black'>
+    </colores_disponibles>
+    <tallas_disponibles
+        talla = 'L'>
+    </tallas_disponibles>
+    <genero
+        genero = 'men'>
+    </genero>
+    <descripcion
+        descripcion = 'Sensational'>
+    </descripcion>
+    <marca
+        marca = 'Calvin Klein'>
+    </marca>
+    <evaluaciones
+        año = '00'
+        calificacion = '5'>
+    </evaluaciones>
+</detalle>);
+
+
+INSERT INTO ProductModel VALUES(115,'Cycling Cap ','<?xml version='1.0'?>
+<detalle>
+    <tipo_de_tela
+        tela = 'jersey'>
+    </tipo_de_tela>
+    <colores
+        color = 'black'>
+    </colores>
+    <tallas
+        talla = 'L'>
+    </tallas>
+    <genero
+        genero = 'men'>
+    </genero>
+    <descripcion
+        descripcion = 'Sensational'>
+    </descripcion>
+    <marca
+        marca = 'QuickSilver'>
+    </marca>
+    <evaluaciones
+        año = '00'
+        calificacion = '5'>
+    </evaluaciones>
+</detalle>);
